@@ -179,6 +179,7 @@
 .grid-items,img{
     height: 200px;
     width: auto;
+    border-radius:2rem; 
 }
 .first{
     transition: transform 0.3s ease;
@@ -263,14 +264,16 @@
     }
 
     .grid-items,img{
-        padding-left: 0.2rem;
+        padding-left: 2rem;
         height: 180px;
         width: 340px;
+        border-radius:2rem; 
     }
      
     .first{
         height: 600px;
         width: 100%;
+        
     }
 
     .seventh{
