@@ -159,8 +159,8 @@
     padding-top: 2rem;
     padding-bottom: 2rem;
     background: -webkit-linear-gradient(rgb(188, 12, 241), rgb(212, 4, 4));
-   -webkit-background-clip: text;
-   -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .content-grid{
    padding-left: 2rem;
@@ -375,97 +375,93 @@
     }
 
     .grid-items,img{
-        padding-left: 2rem;
+      
         height: 180px;
         width: 340px;
         border-radius:2rem; 
     }
      
     .first{
-      transition: transform 0.3s ease;
-      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      height: 400px;
   }
 
   
   .second{
-      height: 100%;
+      height: 280px;
   }
 
   .third{
-      transition: transform 0.3s ease;
-      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      height: 280px;
   }
 
   .fourth{
-      transition: transform 0.3s ease;
-      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      height: 280px;
   }
 
   .fifth{
-      transition: transform 0.3s ease;
-      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      height: 280px;
   }
 
   .sixth{
-      transition: transform 0.3s ease;
-      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      height: 280px;
   }
 
   
   .seventh{
-      transition: transform 0.3s ease;
-      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      height: 400px;
+      width: 330px;
   }
 
   
   .eight{
-     transition: transform 0.3s ease;
-     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     height: 400px;
+     width: 330px;
   }
   
   
   .ninth{
-     transition: transform 0.3s ease;
-     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   height: 400px;
+   width: 330px;
   }
 
   .tenth{
-     transition: transform 0.3s ease;
-     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   height: 570px;
+   width: 360px;
   }
 
   .eleven{
-     transition: transform 0.3s ease;
-     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   height: 590px;
+   width: 340px;
   }
  
   .twovel{
-     transition: transform 0.3s ease;
-     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   height: 630px;
+   width: 350px;
   }
 
   .thirteen{
-     transition: transform 0.3s ease;
-     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   height: 630px;
+   width: 340px;
   }
   
 
   .fourteen{
-     transition: transform 0.3s ease;
-     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   height: 630px;
+   width: 340px;
   }
 
   
   .fifteen{
-     transition: transform 0.3s ease;
-     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   height: 630px;
+   width: 340px;
   }
 
-  
   .sixteen{
-     height: 200px;
-     width: 100%;
+   height: 630px;
+   width: 340px;
   }
+  
+ 
 
 }
 
