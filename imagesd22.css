@@ -79,7 +79,7 @@
       
   }
     .header-rb {
-      
+        width: auto;
         margin: 0 auto;
         display: grid;
         justify-content: center  ;

@@ -16,7 +16,7 @@
  }
 
  .header-rb{
-    max-width: 100%;
+    max-width: auto;
     margin: 0 auto;
     background-color: #eaece5;
     display: flex;
