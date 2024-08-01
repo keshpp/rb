@@ -11,8 +11,7 @@
 
  body{
     height: 100vh;
-    text-align: center;
-    
+    text-align: center;  
     padding: 0.2rem;
     background-color: #f0f0f0;
  }
@@ -63,7 +62,7 @@
    color: blue
  }
 
- @media screen and (max-width:650px) {
+ @media screen and (max-width:909px) {
    body{
       height: 100vh;
       text-align: center;
@@ -154,10 +153,12 @@
   }
  .img-2021{
    height: 12rem;
-   width: 3remrem;
+   width: 8rem;
    border-radius: 1rem; 
    transition: transform 0.3s ease;
-   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, 
+   rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
  }
  .img-2021:hover{
    transform: perspective(300px) translateZ(120PX);
@@ -173,7 +174,7 @@
    padding-bottom: 2rem;
    gap: 5rem;
  }
- @media screen and (max-width:650px) {
+ @media screen and (max-width:909px) {
    .content-box{
       
       gap: 1rem;
@@ -221,10 +222,12 @@
   }
  .img-2022{
    height: 12rem;
-   width: 3remrem;
+   width: 8rem;
    border-radius: 1rem;
    transition: transform 0.3s ease;
-   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+   rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+   rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
  }
  .img-2022:hover{
    transform: perspective(300px) translateZ(120PX) ;
@@ -240,7 +243,7 @@
    padding-bottom: 2rem;
    gap: 5rem;
  }
- @media screen and (max-width:650px) {
+ @media screen and (max-width:909px) {
    .content-box2{
       
       gap: 1rem;
@@ -308,7 +311,7 @@
    padding-bottom: 2rem;
    gap: 5rem;
  }
- @media screen and (max-width:650px) {
+ @media screen and (max-width:909px) {
    .content-box3{
       
       gap: 1rem;
