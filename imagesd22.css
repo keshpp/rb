@@ -374,7 +374,7 @@
       transition: transform 0.3s ease;
   }
 }
-@media screen and (max-width:500px) {
+@media screen and (max-width:566px) {
     .grid-items{
         width: 100%;
         height: 700px;
