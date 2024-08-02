@@ -387,12 +387,7 @@
         transition: transform 0.3s ease;
     }
 
-    .grid-items,img{
-      
-        height: 180px;
-        width: 340px;
-        border-radius:2rem; 
-    }
+   
      
     .first{
       height: 400px;
