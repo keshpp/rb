@@ -391,28 +391,34 @@
      
     .first{
       height: 400px;
-      width: 320px;
+      width: 280px;
   }
 
   
   .second{
       height: 400px;
+      width: 280px;
+
   }
 
   .third{
       height: 400px;
+      width: 280px;
   }
 
   .fourth{
       height: 400px;
+      width: 280px;
   }
 
   .fifth{
       height: 400px;
+      width: 280px;
   }
 
   .sixth{
       height: 400px;
+      width: 280px;
   }
 
   
@@ -473,4 +479,3 @@
  
 
 }
-
