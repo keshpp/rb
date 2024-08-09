@@ -465,8 +465,8 @@
 
       
  .first{
-    height: 250px;
-    width: 420px;
+    height: 240px;
+    width: 390px;
 }
 
 
@@ -476,23 +476,23 @@ width: 320px;
 }
 
 .third{
-height: 330px;
+height: 310px;
 width: 400px;
 }
 
 .fourth{
-height: 430px;
-width: 320px;
+height: 310px;
+width: 400px;
 }
 
 .fifth{
-height: 330px;
+height: 310px;
 width: 400px;
 }
 
 .sixth{
-height: 430px;
-width: 320px;
+height: 310px;
+width: 400px;
 }
 
 
@@ -515,7 +515,7 @@ width: 320px;
 
 .tenth{
 height: 430px;
-width: 255px;
+width: 220px;
 }
 
 .eleven{
@@ -591,8 +591,8 @@ width: 320px;
 
      
   .first{
-    height: 250px;
-    width: 420px;
+   height: 210px;
+   width: 340px;
 }
 
 
@@ -602,23 +602,23 @@ width: 320px;
 }
 
 .third{
-height: 330px;
-width: 400px;
+height: 270px;
+width: 350px;
 }
 
 .fourth{
-height: 430px;
-width: 320px;
+height: 270px;
+width: 350px;
 }
 
 .fifth{
-height: 330px;
-width: 400px;
+height: 270px;
+width: 350px;
 }
 
 .sixth{
-height: 430px;
-width: 320px;
+height: 270px;
+width: 350px;
 }
 
 
@@ -629,8 +629,8 @@ width: 320px;
 
 
 .eight{
-height: 300px;
-width: 360px;
+height: 280px;
+width: 350px;
 }
 
 
@@ -641,7 +641,7 @@ width: 320px;
 
 .tenth{
 height: 430px;
-width: 255px;
+width: 220px;
 }
 
 .eleven{
@@ -652,7 +652,7 @@ width: 240px;
 .twovel{
 height: 430px;
 width: 320px;
-}
+} 
 }
 @media screen and (max-width:575px) {
     .grid-items{
@@ -669,68 +669,68 @@ width: 320px;
 
    
      
-    .first{
-        height: 250px;
-        width: 420px;
-    }
-    
-    
-    .second{
-    height: 430px;
-    width: 320px;
-    }
-    
-    .third{
-    height: 330px;
-    width: 400px;
-    }
-    
-    .fourth{
-    height: 430px;
-    width: 320px;
-    }
-    
-    .fifth{
-    height: 330px;
-    width: 400px;
-    }
-    
-    .sixth{
-    height: 430px;
-    width: 320px;
-    }
-    
-    
-    .seventh{
-    height: 430px;
-    width: 320px;
-    }
-    
-    
-    .eight{
-    height: 300px;
-    width: 360px;
-    }
-    
-    
-    .ninth{
-    height: 430px;
-    width: 320px;
-    }
-    
-    .tenth{
-    height: 430px;
-    width: 255px;
-    }
-    
-    .eleven{
-    height: 430px;
-    width: 240px;
-    }
-    
-    .twovel{
-    height: 430px;
-    width: 320px;
-    }
+ .first{
+      height: 210px;
+      width: 340px;
+  }
+  
+  
+  .second{
+  height: 430px;
+  width: 320px;
+  }
+  
+  .third{
+  height: 270px;
+  width: 350px;
+  }
+  
+  .fourth{
+   height: 270px;
+   width: 350px;
+  }
+  
+  .fifth{
+   height: 270px;
+   width: 350px;
+  }
+  
+  .sixth{
+   height: 270px;
+   width: 350px;
+  }
+  
+  
+  .seventh{
+  height: 430px;
+  width: 320px;
+  }
+  
+  
+  .eight{
+  height: 280px;
+  width: 350px;
+  }
+  
+  
+  .ninth{
+  height: 430px;
+  width: 320px;
+  }
+  
+  .tenth{
+  height: 430px;
+  width: 220px;
+  }
+  
+  .eleven{
+  height: 430px;
+  width: 240px;
+  }
+  
+  .twovel{
+  height: 430px;
+  width: 320px;
+  } 
 }
 
