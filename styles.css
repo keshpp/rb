@@ -151,19 +151,34 @@
    padding-right: 5rem;
    padding-left: 5rem;
   }
- .img-2021{
+ .img-2021-1{
    height: 12rem;
-   width: 8rem;
+   width: 7rem;
    border-radius: 1rem; 
    transition: transform 0.3s ease;
    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, 
    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
     rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
  }
- .img-2021:hover{
+
+ .img-2021-2{
+  height: 11rem;
+  width: 8rem;
+  border-radius: 1rem; 
+  transition: transform 0.3s ease;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, 
+  rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+   rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+ .img-2021-1:hover{
    transform: perspective(300px) translateZ(120PX);
    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
  }
+
+ .img-2021-2:hover{
+  transform: perspective(300px) translateZ(120PX);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
  .txt-h21{
 
  }
@@ -221,19 +236,34 @@
    padding-left: 5rem;
    padding-right: 5rem;
   }
- .img-2022{
+ .img-2022-1{
    height: 12rem;
-   width: 8rem;
+   width: 6.8rem;
    border-radius: 1rem;
    transition: transform 0.3s ease;
    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
  }
- .img-2022:hover{
+
+ .img-2022-2{
+  height: 11rem;
+  width: 8rem;
+  border-radius: 1rem;
+  transition: transform 0.3s ease;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+  rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+  rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+ .img-2022-1:hover{
    transform: perspective(300px) translateZ(120PX) ;
    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
  }
+
+ .img-2022-2:hover{
+  transform: perspective(300px) translateZ(120PX) ;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
  .txt-h22{
 
  }
