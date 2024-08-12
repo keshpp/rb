@@ -164,11 +164,13 @@ transition: all 0.2s ease-in;
  .text-box{
    display: flex;
    text-align: center;
+   justify-content: space-between ;
    
  }
   .img-box{
    padding-right: 5rem;
    padding-left: 5rem;
+   
   }
  .img-2021-1{
    height: 12rem;
@@ -204,6 +206,7 @@ transition: all 0.2s ease-in;
  .inline-21{
    display: flex;
    align-items: center;
+   justify-content: space-between ;
    padding-top: 2rem;
    padding-bottom: 2rem;
    gap: 5rem;
@@ -289,6 +292,7 @@ transition: all 0.2s ease-in;
  .inline-22{
    display: flex;
    align-items: center;
+   justify-content: space-between;
    padding-top: 2rem;
    padding-bottom: 2rem;
    gap: 5rem;
@@ -357,6 +361,7 @@ transition: all 0.2s ease-in;
  .inline-23{
    display: flex;
    align-items: center;
+   justify-content: space-between;
    padding-top: 2rem;
    padding-bottom: 2rem;
    gap: 5rem;
